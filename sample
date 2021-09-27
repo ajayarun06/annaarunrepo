@@ -5,3 +5,4 @@ name config
 sathsh
 conflict
 conflict dev
+rebase master
