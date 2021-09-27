@@ -3,5 +3,8 @@ diff
 Arun loves Anna
 name config
 sathsh
+<<<<<<< HEAD
 conflict
+=======
 conflict dev
+>>>>>>> dev
